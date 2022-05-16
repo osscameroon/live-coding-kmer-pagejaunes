@@ -1,0 +1,7 @@
+format 224
+
+classcanvas 128002 class_ref 128002 // Business
+  classdiagramsettings member_max_width 0 end
+  xyz 181 159 2000
+end
+end

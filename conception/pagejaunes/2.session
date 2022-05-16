@@ -1,0 +1,12 @@
+window_sizes 1800 910 450 1344 753 104
+cleanlooks_style
+diagrams
+  active  classdiagram_ref 128002 // models
+    1344 753 100 A4 0 0
+end
+show_stereotypes
+selected attribute_ref 128898 // image
+open
+  class_ref 128002 // Business
+end
+end
